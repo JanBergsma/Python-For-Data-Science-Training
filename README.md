@@ -18,3 +18,6 @@ This belongs to:
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/Uct_EbThV1E/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDkq82usbbNou1wqYpdwsgkb69zxA)](https://www.youtube.com/playlist?list=PLZ7s-Z1aAtmIbaEj_PtUqkqdmI1k7libK)
 
+```bash
+pipenv run jupyter notebook
+```
