@@ -15,6 +15,7 @@ sympy = "*"
 seaborn = "*"
 pillow = "*"
 python-magic = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.8"
