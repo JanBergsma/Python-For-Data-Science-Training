@@ -16,6 +16,7 @@ seaborn = "*"
 pillow = "*"
 python-magic = "*"
 sklearn = "*"
+networkx = "*"
 
 [requires]
 python_version = "3.8"
