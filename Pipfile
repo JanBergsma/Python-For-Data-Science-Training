@@ -17,6 +17,10 @@ pillow = "*"
 python-magic = "*"
 sklearn = "*"
 networkx = "*"
+beautifulsoup4 = "*"
+plotly = "*"
+chart-studio = "*"
+cufflinks = "*"
 
 [requires]
 python_version = "3.8"
