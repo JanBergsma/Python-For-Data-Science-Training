@@ -22,6 +22,7 @@ plotly = "*"
 chart-studio = "*"
 cufflinks = "*"
 tutormagic = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.8"
